@@ -1,1 +1,1 @@
-# eda-project
+# Coffee Shop EDA Project
